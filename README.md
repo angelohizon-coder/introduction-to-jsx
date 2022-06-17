@@ -1,3 +1,3 @@
 # Introduction to JSX
 
-JSX is basically a HTML and JavaScript having a baby.
+JSX is basically HTML and JavaScript having a baby.
